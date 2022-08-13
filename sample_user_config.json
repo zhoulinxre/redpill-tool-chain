@@ -7,8 +7,8 @@
         "mac1": "001132A81A1D",
         "mac2": "001132A82A1E",
         "SasIdxMap": "0",
-        "DiskIdxMap": "0500",
-        "SataPortMap": "65"
+        "DiskIdxMap": "00",
+        "SataPortMap": "1"
     },
     "synoinfo": {},
     "ramdisk_copy": {},
