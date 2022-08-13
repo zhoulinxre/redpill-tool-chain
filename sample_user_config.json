@@ -5,10 +5,7 @@
         "sn": "A3LWN04051",
         "netif_num": "2", 
         "mac1": "001132A81A1D",
-        "mac2": "001132A82A1E",
-        "SasIdxMap": "0",
-        "DiskIdxMap": "00",
-        "SataPortMap": "1"
+        "mac2": "001132A82A1E"
     },
     "synoinfo": {},
     "ramdisk_copy": {},
